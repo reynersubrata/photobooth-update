@@ -3,7 +3,7 @@
   "notes": "testing newest version 2.2.0",
   "pub_date": "2026-04-19T09:44:14Z",
   "platforms": {
-    "darwin-x86_64": {
+    "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeUJubVU3RXdkSmRvaFovYjVDS0JGQ0luczh6YUFORitlcThnejZXaHRYUGs0WW5Nb0NTb0pYWnZBSVNBTys0ZTlHeWFMSzY2OC9oOEhjblQ0cjJVRHd3QlNTRzlSVndZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NTkxODQ2CWZpbGU6cGhvdG9ib290aC5hcHAudGFyLmd6CmFSZGlKVml6b3F2bnhSZm1TenF1TVNKby9aWEdPSUc1UlowN0VzOGxxRlF1M3FMY0lTQi9LRkVCOHdVRXkwTEl2ZlNIVGhhTkswcmpUaXpkbnI4NER3PT0K",
       "url": "https://github.com/reynersubrata/photobooth-update/releases/download/v2.2.0/photobooth.app.tar.gz"
     }
