@@ -1,0 +1,11 @@
+{
+  "version": "2.2.0",
+  "notes": "Fixed camera logic and UI updates.",
+  "pub_date": "2026-04-19T00:00:00Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUeUJubVU3RXdkSmQ1Z3oyanRSYTJQSjc2R1NhQTJaVk9NY3o4emRFL2g1Mng4ZkVtaTVraTNMRmVST21sSkFHMGd3cGFDN001WllnVkl2T2dHUGt6Tk40a3EwLy94U0FrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NTMzODQwCWZpbGU6cGhvdG9ib290aC5hcHAudGFyLmd6ClpGanY0eThKejRXblhzVDZoYTB2QmhBV3NGVjRUQzloNVkvUW1KN3dTVUVrT1NIM0JGZHpXSlFzMEVHU1plTWdUcU1VamF1TWlVRjZNdGoweENaZENnPT0K",
+      "url": "https://creative-tanuki-6d94e6.netlify.app/photobooth.app.tar.gz"
+    }
+  }
+}
