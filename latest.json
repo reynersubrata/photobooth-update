@@ -1,11 +1,11 @@
 {
-  "version": "2.16.0",
+  "version": "2.17.0",
   "notes": "",
-  "pub_date": "2026-09-28T17:08:43Z",
+  "pub_date": "2026-10-11T17:52:05Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeCtOelhxSTZ5NFgzZDNNWGs5VlZRMjlObERMRlNlUE9HY3RqMDZKZitNem1mOTlSb2dTWUdVSTdMTm1IYWdkL2pCMXNyVmxLMlBpUlhNTEJGaGVzd2tFVURXSDJySFFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkwNjE1Mjg3CWZpbGU6cGhvdG9ib290aF8yLjE2LjBfeDY0X2VuLVVTLm1zaS56aXAKNThsODB3UFF4WGhlUXZYeEwyRm1JcFhWR29mdDVtcjN5VVpQQUd6bFl4eks2VERTZWFVaE5mOXJTZXhrMGJDSlBrY2NkVkpIWDNMbkVpWUNhOXN0QkE9PQo=",
-      "url": "https://github.com/reynersubrata/photobooth-update/releases/download/v2.16.0/photobooth_2.16.0_x64_en-US.msi.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeCtOelhxSTZ5NGU2eEQ4dkxJR0RlaFU3VlRsVUt6aWFZNVJmb1ZkUVlZZmd6aUdndUZKYmtGZ3VtbGhIUW1JN3BWK0FlZG9SczhxcWlJL2tkdmdtTG55RXZxZlNYcFFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzQxMTAxCWZpbGU6cGhvdG9ib290aF8yLjE3LjBfeDY0X2VuLVVTLm1zaS56aXAKMjQzWXl1S29zd2NEUUdWaXJUYVIzZ21UdTZJc2hmVXpEdUdBakpKV3ZVSDhROHpXZ1Q5RzJXa1Q4ZC9vOGFvVWttcEgxR2lveVJXQnpDTHRxT2NDQ2c9PQo=",
+      "url": "https://github.com/reynersubrata/photobooth-update/releases/download/v2.17.0/photobooth_2.17.0_x64_en-US.msi.zip"
     }
   }
 }
